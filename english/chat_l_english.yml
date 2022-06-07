@@ -1,0 +1,6 @@
+﻿l_english:
+ CHAT_USERJOINEDCHANNEL:0 "$NAME$ bağlandı"
+ CHAT_USERDISCONNECTED:0 "$NAME$ bağlantısı kesildi."
+ CHAT_USERWASBANNED:0 "$NAME$ banı yedi"
+ CHAT_USERLEFTCHANNEL:0 "$NAME$ odadan ayrıldı."
+ CHAT_CHANNEL_GENERAL:0 "Genel"
